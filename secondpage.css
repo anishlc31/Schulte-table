@@ -1,0 +1,51 @@
+.fa-instagram {
+    background: rgba(255, 192, 203, 0.733);
+    color: white;
+    
+
+  }
+  .fa {
+position:absolute;
+    padding: 20px;
+    font-size: 30px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 90px 45%;
+    border-radius: 10px;
+  }
+ 
+  body{
+    background-color: gray;
+}
+#main2{
+  margin: 190px 40% ;
+
+   
+}
+#time2{
+    font-size:2rem;
+    margin:4px;
+    text-align: center;
+    padding-right: 3rem;
+    border-radius: 10px;
+}
+#number{
+    font-size:2rem;
+    margin:4px;
+    border-radius: 10px;
+
+}
+#back2{
+    position: absolute;
+    font-size:1.5rem;
+    margin: 0px 45%;
+  
+}
+#hover1 ,#hover2{
+    color: burlywood;
+    background-color: whitesmoke;
+    width: 200px;
+    border: solid 1px gray;
+    border-radius: 10px;
+}

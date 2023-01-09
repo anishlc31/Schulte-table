@@ -1,0 +1,19 @@
+body{
+    background-color: gray;
+}
+#mid{
+    margin: 170px 40% ;
+
+}
+#newgame{
+    font-size:2rem;
+
+    border-radius: 10px;
+
+}
+#continuous{
+    font-size:2rem;
+    border-radius: 10px;
+    padding-right: 15px;
+
+}

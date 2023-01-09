@@ -1,0 +1,45 @@
+body{
+  
+    background-color: gray;
+}
+#turn{
+    justify-content:center;
+    text-align: center;
+    background-color:blueviolet;
+  padding: 0.1px;
+ 
+}
+#timeandscore{
+    display:flex;
+    padding: 1rem;
+    background:red;
+    margin: 3px 0;
+}
+#time{
+   
+    font-size:15px;
+
+
+}
+#score{
+    margin: 0 75%;
+    font-size:15px;
+}
+#fortime{
+    font-size: 20px;
+    margin:  -10px 7px;
+}
+#forscore{
+    font-size: 20px;
+    margin:  -20px 7px;
+}
+#forturn{
+    display: -webkit-inline-box;
+}
+
+
+.restart5{
+    position:absolute;
+    font-size:1.5rem;
+    margin: 400px 50%;
+}

@@ -1,0 +1,15 @@
+body{
+    background:gray;
+}
+
+#mainpart{
+    position: absolute;
+    display: grid;
+    width: 100vw;
+    height: 65vh;
+    
+    grid-gap: 2px;
+    justify-content: center;
+    align-content: center;
+}
+/* For 3*3 height =100vh and for 5*5 size of column androw is 70 else 100px */
